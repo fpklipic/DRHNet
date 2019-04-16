@@ -14,4 +14,4 @@ This code is released under the MIT License. See [LICENSE](LICENSE) for addition
 
 
 ## Contact
-if you have any questions about this repo, please feel free to contact isfanhy@gmail.com.
+If you have any questions about this repo, please feel free to contact isfanhy@gmail.com.
