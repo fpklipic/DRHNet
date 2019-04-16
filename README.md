@@ -4,7 +4,7 @@
 ## Descriptions
 This repository includes a [Tensorflow](https://www.tensorflow.org/) implementation of **DRHN** proposed in the paper [Deep residual haze network](https://github.com/fpklipic/DRHN)
 
-The code is implemented by Chuansheng Wang, Jiawei Wu, Haoyi Fan (e-mail: isfanhy@gmail.com) and reviewed by Zuoyong Li (e-mail: fzulzytdq@126.com).
+The project is implemented by Chuansheng Wang, Jiawei Wu, Haoyi Fan (e-mail: isfanhy@gmail.com) and reviewed by Zuoyong Li (e-mail: fzulzytdq@126.com).
 
 
 
